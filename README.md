@@ -5,7 +5,7 @@
 <p>📗 I love to learn more and I am open to new technology, cultures, languages and more.</p>
 <p>❤️ Support my open source work on GitHub Sponsors.</p>
 <br>
-
+<h2>On a daily basis (hover for names)</h2>
 <p align="center">
 <a href="https://github.com/exoream">
   <img height="200em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=exoream&show_icons=true&theme=algolia&include_all_commits=true&count_private=true%22"/>
