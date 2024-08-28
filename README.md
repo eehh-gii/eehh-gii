@@ -7,7 +7,7 @@
 <br>
 
 <div align="center">
-    <h1>Knowledge</h1>
+    <h1>Statistic</h1>
     <p>Currently, I'm a student, immersing myself in learning and trying out new skills. Hopefully, I can make my dreams come true!</p>
     <img src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white">
     <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white">
