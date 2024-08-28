@@ -7,7 +7,7 @@
 
 - I’m currently working on [WhatsApp Web](https://github.com/eehh-gii/WA-PUBLIC)
 
-- 👯 I’m looking to collaborate on [Wwebjs](https://wwebjs.dev/)
+- 👯 I’m looking to collaborate on [Wwebjs.dev](https://wwebjs.dev/)
 
 - 🤝 I’m looking for help with [WhatsApp-Web.js](https://github.com/pedroslopez/whatsapp-web.js)
 
