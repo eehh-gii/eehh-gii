@@ -1,6 +1,3 @@
-<div align="center">
-    <a href="https://github.com/exoream"><img width = "1080" height="350" src=img/ai.jpg></a>
-</div>
 <br>
 
 <h1 align="center">About Me</h1>
