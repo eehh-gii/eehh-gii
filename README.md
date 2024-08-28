@@ -14,8 +14,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://stackoverflow.com/users/27059799" target="blank"><img align="center" src="https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white" alt="27059799" height="25" width="83" /></a>
-<a href="https://instagram.com/eehh.gii" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="eehh.gii" height="25" width="83" /></a>
+<a href="https://stackoverflow.com/users/27059799" target="blank"><img align="center" src="https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white" alt="27059799" height="25" width="85" /></a>
+<a href="https://instagram.com/eehh.gii" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="eehh.gii" height="25" width="85" /></a>
 <a href="https://tiktok.com/@eehhgoy" target="blank"><img align="center" src="https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white" alt="@eehhgoy" height="25" width="85" /></a>
 </p>
 
