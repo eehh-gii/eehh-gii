@@ -3,8 +3,7 @@
 <a href="https://github.com/exoream"><img align="left" width="150" src="https://i.ibb.co.com/FmccD4g/338249a193598c5122910ecb0bfc5fa510ca6848-s2-n2-y1.png"></a>
 
 <p><strong>Hello! I'm Yogi Galuh Saputra</strong></p>
-<p>📗 I love to learn more and I am open to new technology, cultures, languages and more.
-    ❤️ Support my open source work on GitHub Sponsors</p>
+<p>📗 I love to learn more and I am open to new technology, cultures, languages and more.\n❤️ Support my open source work on GitHub Sponsors</p>
 
 <br>
 
