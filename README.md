@@ -1,4 +1,3 @@
-<br>
 <h1 align="center">About Me</h1>
 <a href="https://github.com/exoream"><img align="left" width="150" src="https://i.ibb.co.com/FmccD4g/338249a193598c5122910ecb0bfc5fa510ca6848-s2-n2-y1.png"></a>
 
@@ -6,13 +5,13 @@
 📗 I love to learn more and I am open to new technology, cultures, languages and more.
 ❤️ Support my open source work on GitHub Sponsors, check out my profile [here](https://github.com/sponsors/eehh-gii).
 <br>
-<br>
 <p align="center">
 <a href="https://github.com/exoream">
   <img height="200em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=exoream&show_icons=true&theme=algolia&include_all_commits=true&count_private=true%22"/>
   <img height="200em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=exoream&layout=compact&layout=compact&theme=algolia"/>
 </a>
 </p>
+<br>
 
 <h1 align="center">Contact</h1>
 <div align="center">
