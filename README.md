@@ -5,8 +5,17 @@
 <p>📗 I love to learn more and I am open to new technology, cultures, languages and more.</p>
 <p>❤️ Support my open source work on GitHub Sponsors.</p>
 <br>
-<h2>On a daily basis (hover for names)</h2>
+<h2>Basic programming language that I master</h2>
 <h3>Languages</h3>
+
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" title="TypeScript" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg" title="Go" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" title="C++" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg" title="Rust" width="40" height="40"/>
+</p>
+<br>
 
 <p align="center">
 <a href="https://github.com/exoream">
@@ -14,4 +23,3 @@
   <img height="200em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=exoream&layout=compact&layout=compact&theme=algolia"/>
 </a>
 </p>
-<br>
