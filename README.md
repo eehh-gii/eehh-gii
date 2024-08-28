@@ -1,13 +1,9 @@
 <br>
-
 <h1 align="center">About Me</h1>
-<a href="https://github.com/exoream"><img align="right" width="200" src="https://media.tenor.com/cyORI7kwShQAAAAj/shigure-ui-dance.gif"></a>
-<a href="https://github.com/exoream">
-    <img align="left" width="150" src="https://i.ibb.co.com/FmccD4g/338249a193598c5122910ecb0bfc5fa510ca6848-s2-n2-y1.png">
-</a>
+<a href="https://github.com/exoream"><img align="left" width="150" src="https://i.ibb.co.com/FmccD4g/338249a193598c5122910ecb0bfc5fa510ca6848-s2-n2-y1.png"></a>
 
-<p><strong>My name is Hilal</strong></p>
-<p>I have hobbies such as playing games, watching anime, and reading manga. Currently, I am actively playing Genshin Impact and Valorant. I have proficiency in Golang and Node.js. I am learning cloud computing now</p>
+<p><strong>Hello! I'm Yogi Galuh Saputra</strong></p>
+<p>📗 I love to learn more and I am open to new technology, cultures, languages and more.</p>
 <br>
 
 <div align="center">
