@@ -15,7 +15,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://stackoverflow.com/users/27059799" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="27059799" height="30" width="40" /></a>
-<a href="https://instagram.com/eehh.gii" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="eehh.gii" height="30" width="100" /></a>
+<a href="https://instagram.com/eehh.gii" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="eehh.gii" height="35" width="100" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
