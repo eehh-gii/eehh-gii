@@ -6,6 +6,8 @@
 <p>❤️ Support my open source work on GitHub Sponsors.</p>
 <br>
 <h2>On a daily basis (hover for names)</h2>
+<h3>Languages</h3>
+
 <p align="center">
 <a href="https://github.com/exoream">
   <img height="200em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=exoream&show_icons=true&theme=algolia&include_all_commits=true&count_private=true%22"/>
