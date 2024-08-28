@@ -8,7 +8,6 @@
 <p>I have hobbies such as playing games, watching anime, and reading manga. Currently. I have proficiency in Python and Node.js. I am learning cloud computing now</p>
 <br>
 
-<br>
 <p align="center">
 <a href="https://github.com/eehh-gii">
   <img height="200em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=eehh-gii&show_icons=true&theme=algolia&include_all_commits=true&count_private=true%22"/>
