@@ -15,25 +15,3 @@
 </a>
 </p>
 <br>
-
-<h1 align="center">Contact</h1>
-<div align="center">
-    <a href="https://github.com/exoream"><img src=img/tumblr_1dd695a2f774f2277005a263823de596_63755bac_540.webp align="right" width="400" height="250"></a>
-</div> <br>
-
-<p>Embrace the journey, like the protagonist in an anime <br> Navigating life's plot twists with determination and a splash of humor <br> Remember, every setback is just a filler episode before the epic comeback!</p> <br>
-<p align="center">
-<a href="https://www.facebook.com/Hilbih"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a> <br>
-<a href="https://discord.com/invite/exoream"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
-<a href="https://www.linkedin.com/in/alhilaluddin/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-</p>
-
-
-
-
-
-
-
-
-  
-  
