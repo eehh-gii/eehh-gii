@@ -4,7 +4,7 @@
 
 <p><strong>Hello! I'm Yogi Galuh Saputra</strong></p>
 <p>📗 I love to learn more and I am open to new technology, cultures, languages and more.</p>
-<p>❤️ Support my open source work on GitHub Sponsors, check out my profile [here](https://github.com/sponsors/eehh-gii).</p>
+<p>❤️ Support my open source work on GitHub Sponsors</p>
 <br>
 
 <div align="center">
