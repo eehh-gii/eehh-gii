@@ -5,6 +5,24 @@
 📗 I love to learn more and I am open to new technology, cultures, languages and more.
 ❤️ Support my open source work on GitHub Sponsors, check out my profile [here](https://github.com/sponsors/eehh-gii).
 <br>
+div align="center">
+    <h1>Knowledge</h1>
+    <p>Currently, I'm a student, immersing myself in learning and trying out new skills. Hopefully, I can make my dreams come true!</p>
+    <img src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white">
+    <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white">
+    <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white">
+    <img src="https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white"><br>
+    <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white">
+    <img src="https://img.shields.io/badge/mysql-%23000.svg?style=for-the-badge&logo=mysql&logoColor=white"><br>
+    <img src="https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white">
+    <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white">
+    <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white">
+    <img src="https://img.shields.io/badge/codecov-%23ff0077.svg?style=for-the-badge&logo=codecov&logoColor=white"><br><br>
+  <a href="https://github.com/exoream">
+      <img align="center" width="400" heigh="200" src="img/219626.gif">
+  </a>
+</div>
+
 <p align="center">
 <a href="https://github.com/exoream">
   <img height="200em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=exoream&show_icons=true&theme=algolia&include_all_commits=true&count_private=true%22"/>
