@@ -16,6 +16,7 @@
 <p align="left">
 <a href="https://stackoverflow.com/users/27059799" target="blank"><img align="center" src="https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white" alt="27059799" height="20" width="80" /></a>
 <a href="https://instagram.com/eehh.gii" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="eehh.gii" height="20" width="80" /></a>
+<a href="https://tiktok.com/@eehhgoy" target="blank"><img align="center" src="https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white" alt="@eehhgoy" height="20" width="80" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
