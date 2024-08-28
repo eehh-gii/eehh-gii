@@ -5,7 +5,7 @@
 📗 I love to learn more and I am open to new technology, cultures, languages and more.
 ❤️ Support my open source work on GitHub Sponsors, check out my profile [here](https://github.com/sponsors/eehh-gii).
 <br>
-div align="center">
+<div align="center">
     <h1>Knowledge</h1>
     <p>Currently, I'm a student, immersing myself in learning and trying out new skills. Hopefully, I can make my dreams come true!</p>
     <img src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white">
