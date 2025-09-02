@@ -3,11 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eehh-gii&label=Profile%20views&color=0e75b6&style=flat" alt="eehh-gii" /> </p>
 
-- I’m currently working on [WhatsApp Web](https://github.com/eehh-gii/WA-PUBLIC)
-
-- 👯 I’m looking to collaborate on [Wwebjs.dev](https://wwebjs.dev/)
-
-- 🤝 I’m looking for help with [WhatsApp-Web.js](https://github.com/pedroslopez/whatsapp-web.js)
+- Scripter Luau Roblox [Luau Roblox](https://github.com/eehh-gii/RobloxLUA)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
