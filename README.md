@@ -32,6 +32,10 @@
 <a href="https://www.python.org" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
 
+### Certificate
+
+- [JavaScript](https://alwaysngoding.com/sertifikat/c2VydGlmaWthdC00NzQ)
+
 ### My Github
 
 <img src="https://github-readme-stats.vercel.app/api?username=eehh-gii&show_icons=true&theme=radical&hide=contribs&count_private=true&disable_animations=false&hide_border=true&line_height=24&no-bg=true"/><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eehh-gii&hide_border=true&layout=compact&theme=radical&card_width=374&no-bg=true"/>
