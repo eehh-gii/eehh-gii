@@ -43,5 +43,5 @@
 </p>
 <p align="center">
 <br/>
-  <a href="https://saweria.co/excellentstoree" target="_blank"><img src="https://img.shields.io/badge/Saweria-red?style=for-the-badge&logo="/></a>
+  <a href="https://saweria.co/excellentstore" target="_blank"><img src="https://img.shields.io/badge/Saweria-red?style=for-the-badge&logo="/></a>
 </p>
