@@ -5,9 +5,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eehh-gii&label=Profile%20views&color=0e75b6&style=flat" alt="eehh-gii" /> </p>
 
-<a href="https://luau.org" target="_blank">
-<img src="https://upload.wikimedia.org/wikipedia/commons/8/8f/Luau_Logo_%28Programming_Language%29.svg" alt=gmail style="margin-bottom: 5px;" />Working On LUAU Roblox [Luau Roblox](https://github.com/eehh-gii/RobloxLUA)
-</a>
+- Working On LUAU Roblox [Luau Roblox](https://github.com/eehh-gii/RobloxLUA)
+
 ### Connect with me
 
 <p align="left">
