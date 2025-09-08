@@ -9,9 +9,13 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="mailto:yogigaluh15@gmail.com" target="_blank">
+<img src="https://img.shields.io/badge/Gmail-D14836.svg?&style=flat-square&logo=gmail&logoColor=white" alt=gmail style="margin-bottom: 5px;" /></a>
+<a href="https://linkedin.com/in/yogi-galuh-saputra-b12b94224" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-%231E77B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;" /></a>
 <a href="https://stackoverflow.com/users/27059799" target="blank"><img align="center" src="https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white" alt="27059799" height="25" width="90" /></a>
-<a href="https://instagram.com/eehh.gii" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="eehh.gii" height="25" width="90" /></a>
-<a href="https://tiktok.com/@eehhgoy" target="blank"><img align="center" src="https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white" alt="@eehhgoy" height="25" width="85" /></a>
+<a href="https://instagram.com/eehh.gii" target="_blank">
+<img src="https://img.shields.io/badge/Instagram-%23000000.svg?&style=flat-square&logo=instagram&logoColor=white" alt=instagram style="margin-bottom: 5px;" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
