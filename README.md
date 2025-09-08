@@ -9,7 +9,6 @@
 
 ### Connect with me
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="mailto:yogigaluh15@gmail.com" target="_blank">
 <img src="https://img.shields.io/badge/Gmail-D14836.svg?&style=flat-square&logo=gmail&logoColor=white" alt=gmail style="margin-bottom: 5px;" /></a>
