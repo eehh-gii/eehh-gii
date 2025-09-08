@@ -34,8 +34,9 @@
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/></a>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=eehh-gii&show_icons=true&locale=en&layout=compact" alt="eehh-gii" /></p>
+### My Github
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=eehh-gii&show_icons=true&locale=en" alt="eehh-gii" /></p>
+<img src="https://github-readme-stats.vercel.app/api?username=eehh-gii&show_icons=true&theme=dracula&hide=contribs&count_private=true&disable_animations=false&hide_border=true&line_height=24&no-bg=true"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eehh-gii&hide_border=true&layout=compact&theme=dracula&card_width=374&no-bg=true"/>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=eehh-gii&" alt="eehh-gii" /></p>
