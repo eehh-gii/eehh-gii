@@ -36,7 +36,7 @@
 
 ### My Github
 
-<img src="https://github-readme-stats.vercel.app/api?username=eehh-gii&show_icons=true&theme=dracula&hide=contribs&count_private=true&disable_animations=false&hide_border=true&line_height=24&no-bg=true"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eehh-gii&hide_border=true&layout=compact&theme=dracula&card_width=374&no-bg=true"/>
+<img src="https://github-readme-stats.vercel.app/api?username=eehh-gii&show_icons=true&theme=radical&hide=contribs&count_private=true&disable_animations=false&hide_border=true&line_height=24&no-bg=true"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eehh-gii&hide_border=true&layout=compact&theme=radical&card_width=374&no-bg=true"/>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=eehh-gii&" alt="eehh-gii" /></p>
