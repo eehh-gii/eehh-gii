@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eehh-gii&label=Profile%20views&color=0e75b6&style=flat" alt="eehh-gii" /> </p>
 
-- Scripter Luau Roblox [Luau Roblox](https://github.com/eehh-gii/RobloxLUA)
+- Working On LUAU Roblox [Luau Roblox](https://github.com/eehh-gii/RobloxLUA)
 
 ### Connect with me
 
